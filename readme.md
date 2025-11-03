@@ -1,4 +1,4 @@
-# 📊 Non-Duality Simulation Formulas
+# 📊 Formulas
 
 ## 🧠 **System Architecture**
 
